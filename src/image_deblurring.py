@@ -1,7 +1,5 @@
 # Created by Shahrokh Hamidi
-# PhD., Electrical & Computer Engineering, University of Waterloo
-# Waterloo, ON., Canada
-# Feb. 2024
+# PhD., Electrical & Computer Engineering
 
 from skimage import io, color
 from copy import deepcopy
