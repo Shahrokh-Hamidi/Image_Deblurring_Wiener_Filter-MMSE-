@@ -1,3 +1,8 @@
+# Created by Shahrokh Hamidi
+# PhD., Electrical & Computer Engineering, University of Waterloo
+# Waterloo, ON., Canada
+# Feb. 2024
+
 from skimage import io, color
 from copy import deepcopy
 import matplotlib.pyplot as plt
