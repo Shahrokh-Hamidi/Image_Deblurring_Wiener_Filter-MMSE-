@@ -1,4 +1,4 @@
- - This repository contains the code for image deblurring based on the Wiener Fitlering method.
+ - This repository contains the code for image deblurring based on the Wiener Fitlering (MMSE estimator) method.
  -  A kernel has been generated and has been convolved with the original image to produce the blurry image.
  -  Run image_deblurring.py to produce the deblurred image. 
 
