@@ -7,4 +7,5 @@
 
 
 
-![GR](https://github.com/Shahrokh-Hamidi/Image_Deblurring_Wiener_Filter-MMSE-/assets/156338354/24d6ae13-1336-48c6-8013-6d4649bce70d)
+
+![GR](https://github.com/Shahrokh-Hamidi/Image_Deblurring_Wiener_Filter-MMSE-/assets/156338354/f26e0920-b01b-45ae-8175-2327d3974989)
