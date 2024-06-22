@@ -1,5 +1,6 @@
 # Created by Shahrokh Hamidi
 # PhD., Electrical & Computer Engineering
+# shahrokh.hamidi@uwaterloo.ca, shahrokh.hamidi@gmail.com
 
 from skimage import io, color
 from copy import deepcopy
